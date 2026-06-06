@@ -169,7 +169,7 @@ const ashok = {
 </details>
 
 <details>
-<summary><b>⚙️ Associate Software Engineer · ZyBiSys</b> · <i>May 2024 – Apr 2026 · Tiruchirappalli, India</i></summary>
+<summary><b>⚙️ Associate Software Engineer · ZyBiSys</b> · <i>May 2024 – March 2026 · Tiruchirappalli, India</i></summary>
 
 <br>
 
