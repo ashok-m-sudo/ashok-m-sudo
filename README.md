@@ -40,7 +40,7 @@ const ashok = {
     Devops:        ["Jenkins", "Github Actions", "CI/CD", "SonarQube", "Trivy", "Owasp"],
     observability: ["OpenTelemetry", "Prometheus", "Grafana", "Jaeger", "Elastic search" "Kibana", "Loki"],
     storage:       ["Ceph", "S3-compatible Object Storage", "Block Storage"],
-    cloud:         ["GCP (GKE)", "AWS (S3, EC2)", "HashiCorp Vault"],
+    cloud:         ["AWS (S3, EC2, VPC, IAM, SNS)", "GCP (GKE)", "HashiCorp Vault"],
     languages:     ["Python", "Java", "JavaScript", "Node.js", "Bash"]
   },
 
