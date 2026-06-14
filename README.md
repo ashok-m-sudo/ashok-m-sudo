@@ -211,7 +211,7 @@ const ashok = {
 | 🏆 | **Learning Champion Award** | *Knowledge Seeker* — **ZyBiSys R&R 2024–25**. Recognized for continuous learning, initiative, and impactful contributions to team knowledge. |
 | ☁️ | **Google Cloud Certified** | *Deploy Kubernetes Applications on Google Cloud* — Issued by Google Cloud, verified on Credly. |
 | 🌐 | **Multi-site DR Architect** | Designed and shipped **geo-distributed Ceph clusters** with cross-datacenter replication for live production workloads. |
-| 🔭 | **Observability Lead** | Drove **zero-code distributed tracing** rollout across microservices — full RED-method coverage from a single instrumentation pipeline. |
+| 🔭 | **Observability Master** | Drove **zero-code distributed tracing** rollout across microservices — full RED-method coverage from a single instrumentation pipeline. |
 
 </div>
 
@@ -232,7 +232,7 @@ const ashok = {
 ## 🌱 Currently Learning
 
 ```text
-🦀 Systems Programming  → Rust for high-performance infra tooling
+🦀 Iac - Terraform, Ansible
 🤖 Platform Engineering → IDPs · GitOps (ArgoCD) · Backstage
 ```
 
